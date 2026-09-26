@@ -1,4 +1,4 @@
-# Spectrum Science Club — website
+# Spectrum Science Club — Website
 
 A single-page site for Spectrum Science Club (Woxsen University) with
 Team / Events / Registrations tabs, a UPI QR payment box, and
